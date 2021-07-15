@@ -1,0 +1,444 @@
+.background1{
+position: absolute;
+width: 3000px;
+height: 500px;
+left: 0px;
+top: 0px;
+
+background: #ED4C5C;
+}
+
+.fmain1{
+position: absolute;
+width: 445px;
+height: 107px;
+left: 165px;
+top: 122px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+}
+
+.f1{
+position: absolute;
+width: 445px;
+height: 64px;
+left: 165px;
+top: 253px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+color: #FFFFFF;
+}
+
+.appstore{
+position: absolute;
+left: 8%;
+right: 6.25%;
+top: 70%;
+bottom: 1.25%;
+}
+
+.windows{
+position: absolute;
+left: 10%;
+right: 0%;
+top: 70%;
+bottom: 0%;
+}
+
+.googleplay{
+    position: absolute;
+    left: 6%;
+    right: 0%;
+    top: 70%;
+    bottom: 0%;
+}
+
+.googleplay2{
+    position: absolute;
+    left: 6.07%;
+    right: 32.46%;
+    top: 72.7%;
+    bottom: 6.25%;
+}
+
+.googleplay3{
+    position: absolute;
+    left: 6.06%;
+    right: 32.46%;
+    top: 69.8%;
+    bottom: 6.25%;
+}
+
+.googleplay4{
+    position: absolute;
+    left: 6.51%;
+    right: 0%;
+    top: 71.5%;
+    bottom: 0%;   
+}
+
+.photobackground1{
+    position: absolute;
+    width: 383px;
+    height: 267px;
+    left: 26.51%;
+    right: 0%;
+    top: 28.5%;
+    bottom: 0%;
+    background: url(.jpg), #C4C4C4;
+    opacity: 0.5;
+    border-radius: 15px;
+}
+
+.photobackground2{
+    position: absolute;
+    width: 383px;
+    left: 31.51%;
+    right: 0%;
+    top: 28.5%;
+    bottom: 0%;
+    background: url(.jpg), #C4C4C4;
+    opacity: 0.5;
+    border-radius: 15px;
+}
+
+.photo{
+position: absolute;
+width: 445px;
+height: 311px;
+left: 28%;
+right: 0%;
+top: 24.5%;
+bottom: 0%;
+background: url(.jpg), #C4C4C4;
+border-radius: 15px;
+}
+
+.background2{
+position: absolute;
+width: 3000px;
+height: 500px;
+left: 0px;
+top: 500px;
+background: #FFFFFF;
+}
+
+.contact{
+position: absolute;
+width: 445px;
+height: 107px;
+left: 176px;
+top: 617px;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+color: #000000;
+}
+
+.textcontact{
+    position: absolute;
+    width: 434px;
+    height: 64px;
+    left: 176px;
+    top: 713px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+}
+
+.f{
+position: absolute;
+width: 255px;
+height: 60px;
+left: 735px;
+top: 620px;
+border: 1px solid #333333;
+box-sizing: border-box;
+border-radius: 6px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+margin-left:31px;
+font-size: 16px;
+line-height: 19px;
+color: rgba(19, 39, 67, 0.5);
+}
+
+.f2{
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    left: 1020px;
+    top: 620px;
+    order: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    margin-left:31px;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.f3{
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 720px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    margin-left:31px;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.f4{
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 820px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    margin-left:31px;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+}
+
+.b3{
+position: absolute;
+width: 3000px;
+height: 435px;
+left: 0px;
+top: 1045px;
+background: #FAFAFA;
+}
+
+.adress{
+    position: absolute;
+    width: 65px;
+    height: 22px;
+    left: 166px;
+    top: 85px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+
+.textadress{
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 166px;
+    top: 140px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    color: #101010;
+}
+
+.service{
+    position: absolute;
+    width: 67px;
+    height: 22px;
+    left: 450px;
+    top: 85px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+.textservice{
+    position: absolute;
+    width: 254px;
+    height: 114px;
+    left: 450px;
+    top: 140px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.getintouch{
+    position: absolute;
+width: 101px;
+height: 22px;
+left: 734px;
+top: 85px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #101010;
+white-space:nowrap;
+}
+
+.email{
+    position: absolute;
+    width: 122px;
+    height: 14px;
+    left: 734px;
+    top: 140px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
+
+.number{
+    position: absolute;
+    width: 96px;
+    height: 14px;
+    left: 734px;
+    top: 165px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.facebook{
+    position: absolute;
+    left: 738.08px;
+    right: 25%;
+    top: 200.17px;
+    bottom: 8.33%;
+}
+
+.dot{
+    position: absolute;
+    left: 761.17px;
+    right: 75%;
+    top: 200.17px;
+    bottom: 75%;
+}
+
+.i{
+    position: absolute;
+    left: 761.17px;
+    right: 75%;
+    top: 204.25px;
+    bottom: 12.5%;
+}
+
+.n{
+    position: absolute;
+    left: 765.83px;
+    right: 8.33%;
+    top: 203.67px;
+    bottom: 12.5%;
+}
+
+.twitter{
+    position: absolute;
+    left: 786.58px;
+    right: 4.17%;
+    top: 200.74px;
+    bottom: 12.78%;
+}
+
+.wesup{
+    position: absolute;
+width: 96px;
+height: 22px;
+left: 1022px;
+top: 85px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #101010;
+white-space:nowrap;
+}
+
+.bank{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 1028px;
+top: 140px;
+background: url(secure-p-1.png);
+}
+
+.copyright{
+    position: absolute;
+    width: 155px;
+    height: 14px;
+    left: 161px;
+    top: 335px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
+
+.bt{
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    left: 764px;
+    top: 910px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
