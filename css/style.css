@@ -53,6 +53,7 @@ background: #0B2239;
   line-height: 20px;
   color: #FFFFFF;
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
@@ -92,11 +93,11 @@ flex-direction: row;
 align-items: flex-start;
 padding: 8px 10px;
 background: #4AD295;
-border-radius: 2px;
 flex: none;
 order: 1;
 flex-grow: 0;
 margin: 0px 10px;
+border:none;
 }
 
 .b2{
@@ -203,7 +204,7 @@ line-height: 20px;
   justify-content: center;
   padding: 4px 10px;
   background-color: #E5E5E5;
-  border: 1px #E5E5E5;
+  border:none;
   border-radius: 8px;
   cursor: pointer;
 }
@@ -217,7 +218,8 @@ line-height: 20px;
   font-style: normal;
   
   background: #EA4C89;
-  border-radius: 8px;
+  border:none;
+border-radius: 8px;  
   
   /* Inside Auto Layout */
   
@@ -264,6 +266,7 @@ flex-direction: row;
 align-items: flex-start;
 padding: 4px 10px;
 background: #FFFFFF;
+border:none;
 border-radius: 8px;
 flex: none;
 order: 1;
@@ -343,6 +346,7 @@ color: #FFFFFF;
   top: 0px;
   background: #09B3AF;
   box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+  border:none;
   border-radius: 6px;
   font-family: Roboto;
   font-style: normal;
