@@ -61,8 +61,8 @@ tbody > tr :last-child {
 
 .search-wrap {
     float: right;
-    width: 40%;
-    height: 4vh;
+    width: 200px;
+    height: 30px;
     background-color: #444444;
     border-radius: 12px;
 }
