@@ -6,14 +6,14 @@ body {
 
 table {
     width: 1000px ;
-    background-color: #2f2f2f;
+    background-color: #2f2f1f;
     margin: auto;
     margin-top: 40px;
     margin-bottom: 40px;
     border-collapse: collapse;
-    border: 1px solid #565656;
+    border: 1px solid #565653;
     padding: 2px;
-    color: #858585;
+    color: #858584;
     text-indent: 5px;
 }
 
@@ -39,19 +39,7 @@ th.wrap>span {
     margin-top: -3px;
 }
 
-tr {
-    height: 4vh;
-    border: 1px solid #565656;
-}
 
-tbody > tr :first-child {
-    color:#e6e6e6;
-}
-
-tbody > tr :last-child {
-    color:#e6e6e6;
-    padding: 5px;
-}
 
 #check-box {
     color: #2196f3;
@@ -123,4 +111,18 @@ p {
     display: inline;
     margin: 0;
     margin-top: 3px;
+}
+
+tr {
+    height: 4vh;
+    border: 1px solid #565656;
+}
+
+tbody > tr :first-child {
+    color:#e6e6e6;
+}
+
+tbody > tr :last-child {
+    color:#e6e6e6;
+    padding: 5px;
 }

@@ -1,0 +1,70 @@
+main{
+    grid-template-columns: 522px, 216px, 522px;
+    grid-template-rows: repeat(2, 300px);
+    gap: 20px;
+}
+
+.mainhelper{
+    margin-left:80px;
+    display: flex;
+    justify-content: center;
+}
+
+.mbox1{
+    grid-column: 1/3;
+    grid-row: 1/2;
+    background: rgba(17, 17, 17, 0.5);
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+    border-radius: 10px;
+    background: url(img/Background1card.png);
+    width: 738px;
+    height: 300px;
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+}
+
+.mbox2{
+    grid-column: 3/4;
+    grid-row: 1/2;
+    background: rgba(17, 17, 17, 0.5);
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+    border-radius: 10px;
+    background: url(img/Background2card.png);
+    width: 522px;
+    height: 300px;
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+}
+
+.mbox3{
+    grid-column: 1/2;
+    grid-row: 2/3;
+    background: rgba(17, 17, 17, 0.5);
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+    border-radius: 10px;
+    background: url(img/Background3card.png);
+    width: 522px;
+    height: 300px;
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+}
+
+.mbox4{
+    grid-column: 2/4;
+    grid-row: 2/3;
+    background: rgba(17, 17, 17, 0.5);
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+    border-radius: 10px;
+    background: url(img/Background4card.png);
+    width: 738px;
+    height: 300px;
+    box-shadow: 0px 10px 20px rgba(17, 17, 17, 0.1);
+}
+
+.headerbox{
+    font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 44px;
+color: #2B7AF1;
+margin-left:80px;
+margin-bottom:40px;
+}
